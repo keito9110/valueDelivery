@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">valueDelivery</string>
+    <string name="btnmesg">次の画面へ値を渡す</string>
+</resources>
